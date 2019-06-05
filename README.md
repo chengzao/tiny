@@ -13,6 +13,13 @@
 npm install @chengzao/tiny
 ```
 
+## npm publish
+
+```bash
+npm login
+npm publish --access=public
+```
+
 ## use
 
 ```js
